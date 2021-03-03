@@ -1,0 +1,2 @@
+# Texture Drawing Benchmark
+This is a speed comparison of two drawing functions that each draw an image of TV static. The first uses standard p5 rect() calls, and the second copies random sections from a pre-generated texture. The results are visually indistinguishable, but on my system at least the texture drawing function is about 14x faster. Obviously there's a lot more setup involved with the texture method, and it won't be a good fit for every situation.
