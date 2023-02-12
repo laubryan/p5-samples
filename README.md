@@ -1,7 +1,7 @@
 # p5-samples
-Some p5 samples and examples that I've written for fun and learning purposes. Use at your own risk!
+Some p5 samples and examples that I've written for fun and learning purposes.
 
-If you use the code in your projects, I'd appreciate a mention.
+If you use the code in your projects I'd appreciate a mention, but use at your own risk!
 
 ## Infinite Tunnel
 
