@@ -1,12 +1,20 @@
 # p5-samples
 Some p5 samples and examples that I've written for fun and learning purposes. Use at your own risk!
 
+If you use the code in your projects, I'd appreciate a mention.
+
 ## Infinite Tunnel
 
 A test of an idea I had for drawing a pseudo-3d infinite tunnel using only 2d rectangles. 
 The illusion is enhanced by having simulated particles fly out of the tunnel towards the viewer.
 
 ![Infinite Tunnel](https://github.com/laubryan/p5-samples/blob/914f01cb9dd3cbe62748894779f0e2dfd2729453/infinite-tunnel/infinite-tunnel.jpg?raw=true)
+
+## Interactive Bezier Curve
+
+An implementation of a cubic bezier curve with four control points that can be moved around.
+
+![Interactive Cubic Bezier Curve](https://github.com/laubryan/p5-samples/interactive-bezier-curve/interactive-bezier-curve.jpg?raw=true)
 
 ## Texture Drawing Benchmark
 
