@@ -14,6 +14,8 @@ The illusion is enhanced by having simulated particles fly out of the tunnel tow
 
 An implementation of a cubic bezier curve with four control points that can be moved around.
 
+Yes, I know that p5 has its own bezier curve function, but this an interesting exercise that I couldn't pass up.
+
 ![Interactive Bezier Curve](https://github.com/laubryan/p5-samples/blob/a5f1f50e3b55b0af12eb48eba285b2ac8cdc44de/interactive-bezier-curve/interactive-bezier-curve.jpg?raw=true)
 
 ## Texture Drawing Benchmark
