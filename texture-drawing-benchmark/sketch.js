@@ -1,3 +1,9 @@
+//
+// Texture Drawing Benchmark
+//
+// Speed comparison drawing static using pixels vs textures
+//
+
 var staticTexture;
 var texWidth;
 var texHeight;

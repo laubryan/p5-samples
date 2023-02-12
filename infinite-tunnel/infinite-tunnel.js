@@ -1,3 +1,9 @@
+//
+// Infinite Tunnel 2D
+//
+// Pseudo-3D infinite tunnel illusion
+//
+
 // The moving origin point for the rectangles
 let originPt = { x: 400, y: 300 };
 
