@@ -12,9 +12,9 @@ The illusion is enhanced by having simulated particles fly out of the tunnel tow
 
 ## Interactive Bezier Curve
 
-An implementation of a cubic bezier curve with four control points that can be moved around.
+An implementation of a cubic bezier curve algorithm from scratch, with four control points that can be moved around.
 
-Yes, I know that p5 has its own bezier curve function, but this was an interesting exercise that I couldn't pass up.
+Although p5 does have its own bezier curve function, implementing the algorithm was an interesting exercise that I couldn't pass up.
 
 ![Interactive Bezier Curve](https://github.com/laubryan/p5-samples/blob/b75b0f97b2772d8c06c7ed21607c4c00505e7b9f/interactive-bezier-curve/interactive-bezier-curve.gif?raw=true)
 
